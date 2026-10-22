@@ -6,6 +6,7 @@
 
     <build>
         <sourceDirectory>.</sourceDirectory>
+        <testSourceDirectory>.</testSourceDirectory>
         <plugins>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
